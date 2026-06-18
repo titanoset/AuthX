@@ -45,7 +45,7 @@ import java.util.Locale;
 import java.util.UUID;
 import java.util.concurrent.TimeUnit;
 
-@Plugin(id = "authx", name = "AuthX", version = "2.2.2", authors = {"Jason31416", "oneLiLi"},
+@Plugin(id = "authx", name = "AuthX", version = "2.2.3", authors = {"Jason31416", "oneLiLi"},
         dependencies = {
                 @Dependency(id = "limboapi", optional = false),
                 @Dependency(id = "floodgate", optional = true),
@@ -196,7 +196,7 @@ public class AuthXPlugin implements AuthXApi {
 
     @Override
     public String getVersion() {
-        return "2.2.2";
+        return "2.2.3";
     }
 
     @Override

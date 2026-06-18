@@ -1,7 +1,7 @@
 # AuthX Velocity
 
 ![Platform](https://img.shields.io/badge/Platform-Velocity-00b4ff)
-![Java](https://img.shields.io/badge/Java-17%2B-red)
+![Java](https://img.shields.io/badge/Java-21%2B-red)
 [![Modrinth](https://img.shields.io/badge/Modrinth-AuthX%20Velocity-1bd96a?logo=modrinth&logoColor=white)](https://modrinth.com/plugin/authx-velocity)
 [![GitHub stars](https://img.shields.io/github/stars/MinecraftServerUnion/AuthX?style=flat&logo=github)](https://github.com/MinecraftServerUnion/AuthX/stargazers)
 
@@ -11,8 +11,9 @@ It combines the core ideas of MultiLogin-style account routing and LimboAuth-sty
 
 ## Basic information
 
-- **Dependency:** LimboAPI ([Modrinth](https://modrinth.com/plugin/limboapi))
-- **Velocity Support:** Velocity 3.4.0 - 3.5.0
+- **Dependency:** LimboAPI 1.1.27+ ([Modrinth](https://modrinth.com/plugin/limboapi))
+- **Velocity Support:** Velocity 3.5.0+
+- **Minecraft Support:** up to **26.1** (protocol 775)
 
 ## Why AuthX
 

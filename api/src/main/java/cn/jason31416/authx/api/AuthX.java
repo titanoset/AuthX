@@ -1,7 +1,7 @@
 package cn.jason31416.authx.api;
 
 import lombok.Setter;
-import javax.annotation.Nullable;
+import org.jetbrains.annotations.Nullable;
 
 public class AuthX {
     @Setter
